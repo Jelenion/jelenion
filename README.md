@@ -105,6 +105,6 @@ I enjoy sharing ideas, working in teams, and bringing my perspective to every pr
 </div>
 
 ---
-
+  ![Image](https://github.com/user-attachments/assets/464018b0-7ba2-4ae1-9217-4c6b8ba140af)
   <sub><sup>Last updated: July, 2025</sup></sub>
 </div>
