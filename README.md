@@ -25,10 +25,10 @@ I enjoy sharing ideas, working in teams, and bringing my perspective to every pr
 
 </div>
 
-### �� Current Focus
+### ⚙️ Current Focus
 - 🔭 **Currently involved in** maintaining and upgrading software solutions developed in PHP
 - 🌱 **Actively expanding** my skill set by learning Laravel and Angular
--  **Always exploring** new technologies and frameworks
+- 🚀 **Always exploring** new technologies and frameworks
 
 ### 🤝 Connect with Me
 <div align="center">
@@ -88,12 +88,9 @@ I enjoy sharing ideas, working in teams, and bringing my perspective to every pr
 ![Cursor](https://img.shields.io/badge/Cursor-00BFFF?style=for-the-badge&logo=cursor&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-### �� Operating Systems
+### 🧩 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-## �� Tech Stack Icons
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,java,python,laravel,nodejs,flask,express" alt="Backend Technologies" width="400" height="50" />
