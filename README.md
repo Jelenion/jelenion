@@ -1,22 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%8C%8E%2C+I'm+Jesus;A+passionate+Programmer+from+Venezuela" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%8C%8E%2C+I'm+Jesus;A+passionate+Programmer+from+Venezuela" alt="Typing SVG" style="max-width:100%;" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jelenion&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Jelenion&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
 </div>
 
----
+<div align="center">
+  <img align="center" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
-</div>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 <div align="justify">
 
@@ -46,12 +45,12 @@ I enjoy sharing ideas, working in teams, and bringing my perspective to every pr
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jelenio&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true&area_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelenion&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true&area_color=0d1117" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelenio&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jelenio&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jelenion&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jelenion&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
@@ -106,10 +105,6 @@ I enjoy sharing ideas, working in teams, and bringing my perspective to every pr
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Technologies" width="300" height="50" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,cursor,netbeans" alt="IDE Technologies" width="300" height="50" />
 </div>
 
 ---
