@@ -32,7 +32,7 @@ I enjoy sharing ideas, working in teams, and bringing my perspective to every pr
 
 ### 🤝 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/merlinjesu26/" target="_blank">
+  <a href="www.linkedin.com/in/jesus-merlin-21567627b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:silvalejandro202608@gmail.com">
